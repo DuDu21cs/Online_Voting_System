@@ -7,22 +7,22 @@ A secure and efficient web-based voting platform built with **PHP** and **MySQL*
 ## 📸 Screenshots
 
 ### Voter Login
-![Voter Login](screenshots/voter-login.jpg)
+![Voter Login](online-voting-system-using-PHP-main/screenshots/voter-login.jpg)
 
 ### Voter Ballot
-![Voter Ballot](screenshots/ballot.jpg)
+![Voter Ballot](online-voting-system-using-PHP-main/screenshots/ballot.jpg)
 
 ### Election Results
-![Election Results](screenshots/results.jpg)
+![Election Results](online-voting-system-using-PHP-main/screenshots/results.jpg)
 
 ### Admin Login
-![Admin Login](screenshots/admin-login.jpg)
+![Admin Login](online-voting-system-using-PHP-main/screenshots/admin-login.jpg)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.jpg)
+![Admin Dashboard](online-voting-system-using-PHP-main/screenshots/admin-dashboard.jpg)
 
 ### Candidates Management
-![Candidates](screenshots/candidates.jpg)
+![Candidates](online-voting-system-using-PHP-main/screenshots/candidates.jpg)
 
 ---
 
