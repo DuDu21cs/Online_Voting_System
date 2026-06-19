@@ -1,6 +1,6 @@
 # 🗳️ Online Voting System (OEMS)
 
-A secure and efficient web-based voting platform built with **PHP** and **MySQL**, designed to support government and public elections. It features a dual-panel architecture — a voter-facing interface for casting ballots and a secure admin panel for managing the entire election lifecycle.
+A secure and efficient web-based voting platform built with **HTML**, **CSS** , **JAVASCRIPT**, **PHP** and **MySQL**, designed to support government and public elections. It features a dual-panel architecture — a voter-facing interface for casting ballots and a secure admin panel for managing the entire election lifecycle.
 
 ---
 
