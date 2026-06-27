@@ -201,6 +201,12 @@ The system supports **10 languages**, selectable from the voter interface:
 
 ---
 
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
 ## 📫 Contact
 
 **Duresa Chemeda**
